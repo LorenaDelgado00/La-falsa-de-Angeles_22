@@ -20,8 +20,6 @@ Banner/Teaser: (enlace)
 
 Storytelling: (enlace)
 
-
-
 Autores:
 
 👩 Lorena Delgado
