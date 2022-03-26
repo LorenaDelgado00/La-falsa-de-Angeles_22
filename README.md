@@ -1,10 +1,10 @@
 Proyecto Storytelling (template):
-Nombre del Equipo:
+Nombre del Equipo: Grupo 2
 
 Proyecto (código):
 
 Resumen
-Personaje
+Personaje: Ángeles Pérez (Angelita)
 
 
 Nombre:
@@ -23,10 +23,11 @@ Storytelling: (enlace)
 
 Autores:
 
-👨 minombre
-👩 minombre
-👩 minombre
-Febrero, 202X
+👩 Lorena Delgado
+👩 María Donaire
+👨 Pablo Martín
+👩 Clara Molina
+Marzo, 2022
 
 Proyecto dentro de la serie HRUN Story. Proyectos seleccionados de 2021 / 2020 / 2019 / 2018
 
